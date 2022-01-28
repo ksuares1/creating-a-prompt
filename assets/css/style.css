@@ -1,0 +1,11 @@
+h1, p{
+    text-align:center;
+    font-size:18px;
+  }
+  
+  .container{
+    text-align:center;
+    height:15%;
+    width:45%;
+    margin:auto;
+  }
